@@ -1,2 +1,2 @@
-# ITP
-Y2S2
+# ITP Project
+Widumaga Management System
